@@ -1,0 +1,11 @@
+.container {
+  width: 150px;
+  border: 1px solid #000;
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  cursor: pointer;
+}
